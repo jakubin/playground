@@ -17,5 +17,10 @@ namespace ConsoleApplication1
         {
             SayHello();
         }
+
+        static void NewFunction()
+        {
+            Console.WriteLine("New function");
+        }
     }
 }
