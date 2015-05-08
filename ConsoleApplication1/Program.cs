@@ -21,6 +21,7 @@ namespace ConsoleApplication1
         static void NewFunction()
         {
             Console.WriteLine("New function");
+            Console.WriteLine("It works");
         }
     }
 }
