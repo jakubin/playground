@@ -16,6 +16,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             SayHello();
+            Console.WriteLine("1");
+            Console.WriteLine("2");
         }
 
         static void NewFunction()
